@@ -20,6 +20,10 @@ h1 {
     font-weight: 900;
 }
 
+p {
+    color: #8f8f8f;
+}
+
 .container-fluid {
     padding: 3% 15%;
 }
@@ -57,19 +61,18 @@ h1 {
     padding: 7% 15%;
 }
 
-.check {
-    color: #242F9B;
+.icon {
+    color: #064ACB;
+    margin-bottom: 1rem;
 }
 
-.bullseye {
-    color: #242F9B;
+.icon:hover{
+    color : #242F9B;
 }
 
-.heart {
-    color: #242F9B;
-}
 
 .feature-box {
     text-align: center;
+    padding: 5%;
 }
 
