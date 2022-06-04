@@ -9,9 +9,15 @@ body {
 }
 
 h1 {
-    font-family: "Montserrat-Bold", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
     line-height: 1.5;
+}
+
+.h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
 }
 
 .container-fluid {
@@ -47,4 +53,23 @@ h1 {
     margin: 5% 3% 5% 0;
 }
 
+#features {
+    padding: 7% 15%;
+}
+
+.check {
+    color: #242F9B;
+}
+
+.bullseye {
+    color: #242F9B;
+}
+
+.heart {
+    color: #242F9B;
+}
+
+.feature-box {
+    text-align: center;
+}
 
