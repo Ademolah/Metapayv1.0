@@ -76,3 +76,11 @@ p {
     padding: 5%;
 }
 
+/* testimonials */
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #064ACB;
+    color: #fff;
+}
