@@ -121,3 +121,40 @@ p {
     padding: 100px;
     text-align: center;
 }
+
+@media (max-width: 1028px) {
+    .crypto {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+/* CTA */
+
+#cta {
+    background-color:#064ACB;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-button {
+    margin: 5% 3% 5% 0;
+}
+
+.cta-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #fff;
+}
+
+/* footer */
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
